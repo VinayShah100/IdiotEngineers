@@ -8,11 +8,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // List of items to search from with actual links
     let items = [
-        { name: "University Material", link: "../pages/university.html", newTab: false },
-        { name: "PYQ", link: "../pages/pyq.html", newTab: false },
+        { name: "University Material", link: "university.html", newTab: false },
+        { name: "PYQ", link: "pyq.html", newTab: false },
         { name: "technical book", link: "../pages/popup.html", newTab: true },
-        { name: "sppu", link: "../page/sppu.html", newTab: false },
-        { name: "university", link: "../pages/university.html", newTab: false },
+        { name: "sppu", link: "sppu.html", newTab: false },
+        { name: "university", link: "university.html", newTab: false },
         { name: "YouTube Playlist", link: "https://www.youtube.com/@IdiotEngineers", newTab: true },
         { name: "Data Structure & Algorithms", link: "https://github.com/sachuverma/DataStructures-Algorithms", newTab: true },
         { name: "Web Development [Frontend]", link: "https://github.com/VinayShah100/Front-end-web-development", newTab: true },
