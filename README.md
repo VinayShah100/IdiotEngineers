@@ -6,7 +6,7 @@
     <em><code>❯  https://idiotengineers.com/ </code></em>
 </p>
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/a21d0b29-3924-467d-b1eb-6c328d96ad66)
+ Screenshot 2024-09-10 011808.jpg
 
 </p>
 
