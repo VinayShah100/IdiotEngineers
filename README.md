@@ -6,8 +6,7 @@
     <em><code>❯  https://idiotengineers.com/ </code></em>
 </p>
 <p align="center">
- Screenshot 2024-09-10 011808.jpg
-
+  <img src="https://github.com/VinayShah100/idiotengineers/blob/main/images/Screenshot%202024-09-10%20011808.jpg" width="20%" alt="IDIOTENGINEERS-logo">
 </p>
 
 <p align="center">
