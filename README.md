@@ -5,6 +5,8 @@
 <p align="center">
     <em><code>❯  https://idiotengineers.com/ </code></em>
 </p>
+![image](https://github.com/user-attachments/assets/62dd634a-8c85-4d85-9740-29bab386577f)
+
 <p align="center">
 	<img src="https://img.shields.io/github/license/VinayShah100/idiotengineers?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/VinayShah100/idiotengineers?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
