@@ -3,7 +3,7 @@
     <h1 align="center">IDIOT  ENGINEERS</h1>
 </p>
 <p align="center">
-    <em><code>❯ REPLACE-ME</code></em>
+    <em><code>❯ Website:- https://idiotengineers.com/ </code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/VinayShah100/idiotengineers?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
