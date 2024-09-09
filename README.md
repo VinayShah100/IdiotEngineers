@@ -5,7 +5,10 @@
 <p align="center">
     <em><code>❯  https://idiotengineers.com/ </code></em>
 </p>
-![image](https://github.com/user-attachments/assets/62dd634a-8c85-4d85-9740-29bab386577f)
+<p align="center">
+  ![image](https://github.com/user-attachments/assets/a21d0b29-3924-467d-b1eb-6c328d96ad66)
+
+</p>
 
 <p align="center">
 	<img src="https://img.shields.io/github/license/VinayShah100/idiotengineers?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
