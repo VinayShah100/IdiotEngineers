@@ -1,6 +1,6 @@
 
 <p align="center">
-    <h1 align="center">IDIOTENGINEERS</h1>
+    <h1 align="center">IDIOT  ENGINEERS</h1>
 </p>
 <p align="center">
     <em><code>❯ REPLACE-ME</code></em>
